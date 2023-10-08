@@ -1,5 +1,5 @@
-### Hi there 👋
----
+# Hi there 👋
+I'm Federico and you just landed on my GitHub page. 😆
 
 ## ✨ About Me ✨
 
@@ -9,7 +9,15 @@ Take a look at the corporate instagram pages:
 * BIPxTech [here](https://www.instagram.com/bipxtech/)
 * BIP Group [here](https://www.instagram.com/bip_group/)
 
-We are also Google Cloud Partener for Italy in year 2023 🎉. [Here](https://bipxtech.cloud/en/bip-xtech-partner-of-the-year-in-italy/) is the official press release.
+We are also Google Cloud Partener for Italy in year 2023 🎉. [Here](https://bipxtech.cloud/en/bip-xtech-partner-of-the-year-in-italy/) is the official press release. <br/>
+
+Since May 2023, I started a new adventure: the second-level master's degree in cloud data engineering at [CEFRIEL](https://www.cefriel.com) @ POLIMI, fully funded by the company I work for. During this path I am learning so many interesting topics:
+* Streaming Data Analytics
+* Big Data Analytics
+* Containerization with Docker and Kubernetes
+* IaC with Terraform and Pulumi
+* IaaS, PaaS, SaaS, FaaS
+* AWS and GCP basic
 
 
 
@@ -18,12 +26,16 @@ We are also Google Cloud Partener for Italy in year 2023 🎉. [Here](https://bi
 
 
 ## Work Projects 🖥️
+> dd/mm/yyyy
+* Started on 09/10/2023 up to *currently in progress*: integration of SAP, Salesforce and Marketing Cloud into Google Cloud for order tracking and multichannel marketing management for a leading Italian company in the worldwide industry.
 
 
 ## Personal Projects
 Data and development are not only my job, but they are also my hobby. For this reason, I like to constantly learn new programming languages or computer science framework. <br/>
 🌱 I’m currently learning:
-* 
+* Full Stack Web Development with Python and Django
+* Deep Learning and ANN with Pytorch and Keras
+* Algorithmic Forex Trading with Python
 
 
 ## Reach Me 📫
