@@ -11,7 +11,7 @@ Take a look at the corporate instagram pages:
 * BIPxTech [here](https://www.instagram.com/bipxtech/)
 * BIP Group [here](https://www.instagram.com/bip_group/)
 
-We are also Google Cloud Partner for Italy in year 2023 🎉. [Here](https://bipxtech.cloud/en/bip-xtech-partner-of-the-year-in-italy/) is the official press release. <br/>
+We are also Services Google Cloud Partner of the Year in Italy in 2023 🎉. Take a look to the official press [release](https://bipxtech.cloud/en/bip-xtech-partner-of-the-year-in-italy/)<br/>
 
 Since May 2023, I started a new adventure: the second-level master's degree in cloud data engineering at [CEFRIEL](https://www.cefriel.com) @ POLIMI, fully funded by the company I work for. During this path I am learning so many interesting topics:
 * Streaming Data Analytics
@@ -28,7 +28,7 @@ Since May 2023, I started a new adventure: the second-level master's degree in c
 
 
 ## Work Projects 🖥️
-> dd/mm/yyyy
+> "%d/%m/%Y" 😝
 * Started on 09/10/2023 up to *currently in progress*: integration of SAP, Salesforce and Marketing Cloud into Google Cloud for order tracking and multichannel marketing management for a leading Italian company in the worldwide industry.
 
 
