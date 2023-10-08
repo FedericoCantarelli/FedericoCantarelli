@@ -1,5 +1,7 @@
 # Hi there 👋
 I'm Federico and you just landed on my GitHub page. 😆
+<br/>
+<br/>
 
 ## ✨ About Me ✨
 
@@ -9,7 +11,7 @@ Take a look at the corporate instagram pages:
 * BIPxTech [here](https://www.instagram.com/bipxtech/)
 * BIP Group [here](https://www.instagram.com/bip_group/)
 
-We are also Google Cloud Partener for Italy in year 2023 🎉. [Here](https://bipxtech.cloud/en/bip-xtech-partner-of-the-year-in-italy/) is the official press release. <br/>
+We are also Google Cloud Partner for Italy in year 2023 🎉. [Here](https://bipxtech.cloud/en/bip-xtech-partner-of-the-year-in-italy/) is the official press release. <br/>
 
 Since May 2023, I started a new adventure: the second-level master's degree in cloud data engineering at [CEFRIEL](https://www.cefriel.com) @ POLIMI, fully funded by the company I work for. During this path I am learning so many interesting topics:
 * Streaming Data Analytics
