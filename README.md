@@ -32,12 +32,16 @@ Since May 2023, I started a new adventure: the second-level master's degree in c
 * Started on 09/10/2023 up to *currently in progress*: integration of SAP, Salesforce and Marketing Cloud into Google Cloud for order tracking and multichannel marketing management for a leading Italian company in the worldwide industry.
 
 
-## Personal Projects
+## Personal Projects 🚀
 Data and development are not only my job, but they are also my hobby. For this reason, I like to constantly learn new programming languages or computer science framework. <br/>
 🌱 I’m currently learning:
 * Full Stack Web Development with Python and Django
 * Deep Learning and ANN with Pytorch and Keras
 * Algorithmic Forex Trading with Python
+
+## Currently Reading 📘
+* Project Management, Achieving Competitive Advantage, Jeffrey K. Pinto, Pearson
+* Google BigQuery The Definitive Guide, Valliappa L., Jordan T., o'Reilly
 
 
 ## Reach Me 📫
