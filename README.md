@@ -36,8 +36,9 @@ Since May 2023, I started a new adventure: the second-level master's degree in c
 
 ## Personal Projects 🚀
 Data and development are not only my job, but they are also my hobby. For this reason, I like to constantly learn new programming languages or computer science framework. <br/>
-🌱 I’m currently learning:
+I’m currently learning 🌱 
 * Full Stack Web Development with Python and Django
+* Data Science, Data Pipeline and ML Enginnering on GCP
 * Deep Learning and ANN with Pytorch and Keras
 * Algorithmic Forex Trading with Python
 
