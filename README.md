@@ -37,13 +37,13 @@ Since May 2023, I started a new adventure: the second-level master's degree in c
 ## Personal Projects 🚀
 Data and development are not only my job, but they are also my hobby. For this reason, I like to constantly learn new programming languages or computer science framework. <br/>
 I’m currently learning 🌱 
-* Full Stack Web Development with Python and Django
+* Google Cloud Professional Data Engineer learning path
 * Data Science, Data Pipeline and ML Enginnering on GCP
-* Deep Learning and ANN with Pytorch and Keras
+* Flutter
+* Go
 * Algorithmic Forex Trading with Python
 
 ## Currently Reading 📘
-* Project Management, Achieving Competitive Advantage, Jeffrey K. Pinto, Pearson
 * Google BigQuery The Definitive Guide, Valliappa L., Jordan T., o'Reilly
 
 
