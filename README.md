@@ -38,9 +38,9 @@ Since May 2023, I started a new adventure: the second-level master's degree in c
 Data and development are not only my job, but they are also my hobby. For this reason, I like to constantly learn new programming languages or computer science framework. <br/>
 I’m currently learning 🌱 
 * Google Cloud Professional Data Engineer learning path
-* Data Science, Data Pipeline and ML Enginnering on GCP
-* Flutter
 * Go
+* Web Scraping with Selenium and BeautifulSoup
+* Data Engineering, ML Engineeting and Data Science on GCP
 * Algorithmic Forex Trading with Python
 
 ## Currently Reading 📘
