@@ -5,6 +5,8 @@ I'm Federico and you just landed on my GitHub page. 😆
 <br/>
 <br/>
 
+<!--
+
 ## ✨ About Me ✨
 
 
@@ -53,7 +55,7 @@ If you want to contact me for personal projects, please dump an email [here](mai
 
 
 
-<!--
+
 **FedericoCantarelli/FedericoCantarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
